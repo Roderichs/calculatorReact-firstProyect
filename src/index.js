@@ -4,6 +4,14 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+/** 
+ * 
+ * @Description: Creating a basic calculator in JavaScript React  
+ * @Author: Roderichs
+ * @Date: 15/02/2020
+ * 
+*/
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
